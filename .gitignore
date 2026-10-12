@@ -1,0 +1,41 @@
+# Generated maps and crawled match data
+img/
+output/
+
+# Virtual environment
+.venv/
+
+# Local Chrome profile used to pass the SofaScore check
+.chrome-profile/
+.browser-profile/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+
+# Tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# OS / editor
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store

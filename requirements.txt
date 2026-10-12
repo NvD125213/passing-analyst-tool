@@ -1,0 +1,14 @@
+pandas==3.0.6
+numpy==2.5.3
+matplotlib==3.11.2
+seaborn==0.13.2
+jupyter==1.1.1
+ipykernel==7.4.0
+requests==2.34.2
+openpyxl==3.1.5
+scikit-learn==1.9.1
+python-dotenv==1.2.4
+playwright==1.63.0
+mplsoccer>=1.8.1
+markitdown[all]
+
